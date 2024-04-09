@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+F:\caro\.metadata\.plugins\org.eclipse.jdt.core
+1716626753.index
+3803195535.index
+446378913.index
+1561823687.index
+1865797976.index
+2140797228.index
